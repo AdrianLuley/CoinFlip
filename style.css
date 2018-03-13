@@ -1,0 +1,13 @@
+.coin {
+    width: 285px;
+    height: 300px;
+}
+
+.h {
+    background-image: url("ChangedHeads.jpg")
+   
+}
+
+.t {
+    background-image: url("ChangedTails.jpg")
+}
